@@ -3,7 +3,7 @@ A simple banking system developed in Java, using Object-Oriented Programming pri
 
 ## Features:
 
-1. User Interface: Created using Swing and AWT
+1. User Interface: Created using Swing and AWT.
 
 2. Account Management: Supports different account types (Savings, Current, Student).
 
